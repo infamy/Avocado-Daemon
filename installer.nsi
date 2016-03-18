@@ -91,7 +91,7 @@ SectionEnd
   ;Assign language strings to sections
   !insertmacro MUI_FUNCTION_DESCRIPTION_BEGIN
   !insertmacro MUI_DESCRIPTION_TEXT ${SecAvocado} $(DESC_SecAvocado)
-	!insertmacro MUI_DESCRIPTION_TEXT ${SecStartup} $(DESC_SecStartup)
+  !insertmacro MUI_DESCRIPTION_TEXT ${SecStartup} $(DESC_SecStartup)
   !insertmacro MUI_FUNCTION_DESCRIPTION_END
 
 ;--------------------------------
