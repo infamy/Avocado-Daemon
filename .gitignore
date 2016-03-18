@@ -64,4 +64,4 @@ target/
 #python builds
 dist/
 build/
-doit.db
+.doit.db
