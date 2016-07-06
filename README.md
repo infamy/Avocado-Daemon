@@ -5,4 +5,4 @@ A small tool to run on a windows box to allow the control of the display, as wel
 
 Main uses are to allow a display to be turn on and off by HASS as needed. As well as to help with deploying the HASS frontend to a low cost windows tablet. 
 
-Check out the latest compiled [releases here](https://github.com/infamy/Avocado/releases)
+Check out the latest compiled [releases here](https://github.com/infamy/Avocado-Daemon/releases)
